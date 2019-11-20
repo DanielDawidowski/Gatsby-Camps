@@ -1,5 +1,5 @@
 import React from 'react'
-import Layout from '../../components/layout'
+import Layout from '../components/layout'
 import { graphql, useStaticQuery, Link } from 'gatsby'
 
 const getImageData = graphql`
