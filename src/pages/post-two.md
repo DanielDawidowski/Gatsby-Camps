@@ -1,5 +1,5 @@
 ---
-title: "The Second Gatsby Garb Post"
+title: "The Second Gatsby Post"
 date: "2019-11-21"
 ---
 
